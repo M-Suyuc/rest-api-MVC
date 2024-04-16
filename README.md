@@ -1,24 +1,23 @@
 <div align="center">
 
 <a href="#-contributing">Contribute</a>
-
-![Superkey Minzip Package Size](https://img.shields.io/bundlephobia/minzip/superkey)
-![GitHub releases](https://img.shields.io/github/release/pheralb/superkey)
-![GitHub stars](https://img.shields.io/github/stars/pheralb/superkey)
-![GitHub issues](https://img.shields.io/github/issues/pheralb/superkey)
-![GitHub license](https://img.shields.io/github/license/pheralb/superkey)
-
 </div>
 
 ## 👋 Introduction
 
-[**REST-API-MVC**] is a rest api using MVC pattern built with [Nodejs](https://reactjs.org/) & [Express](https://tailwindcss.com/)
+[**REST-API-MVC**] is a rest api using MVC pattern built with [Nodejs](https://nodejs.org/en),  [Express](https://expressjs.com/) & [Deploy: fl0](https://app.fl0.com/)
 
 ## ✨ Features
 
 - ✅ **Easy to install**.
 - ✅ **Fully customizable**.
 
+## 👨‍🚀 Getting Started
+### Stack
+- Nodejs
+- Express js
+- Deploy fl0
+  
 ## 👨‍🚀 Getting Started
 
 1. Install dependencies:
