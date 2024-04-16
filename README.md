@@ -5,7 +5,7 @@
 
 ## 👋 Introduction
 
-[**REST-API-MVC**] is a rest api using MVC pattern built with [Nodejs](https://nodejs.org/en),  [Express](https://expressjs.com/) & [Deploy: fl0](https://app.fl0.com/)
+[**REST-API-MVC**] is a rest api using MVC pattern built with [Nodejs](https://nodejs.org/en),  [Express](https://expressjs.com/) & [Deploy: railway](https://railway.app/)
 
 ## ✨ Features
 
@@ -16,7 +16,7 @@
 ### Stack
 - Nodejs
 - Express js
-- Deploy fl0
+- Deploy railway
   
 ## 👨‍🚀 Getting Started
 
